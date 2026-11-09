@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# EDITAR: troque SEU-DOMINIO.vercel.app pelo endereço real do site
+Sitemap: https://SEU-DOMINIO.vercel.app/sitemap.xml
